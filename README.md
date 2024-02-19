@@ -1,8 +1,4 @@
-<h2 align="left">Hi 👋! My name is Naveen and I'm a Tech Enthusiast.</h2>
-
-###
-
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<h2 align="left">Hi 👋! My name is Naveen. and I'm a Tech Enthusiast.</h2>
 
 ###
 
@@ -12,8 +8,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="27" alt="git logo"  />
   <img width="9" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="27" alt="github logo"  />
-  <img width="9" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="27" alt="amazonwebservices logo"  />
   <img width="9" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="27" alt="python logo"  />
   <img width="9" />
@@ -50,6 +44,10 @@
 
 ###
 
+<img align="right" height="150" src="https://imgflip.com/gif/8gasvb"  />
+
+###
+
 <div align="left">
   <a href="naveen.gajavelli359@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
@@ -63,6 +61,12 @@
 
 <div align="center">
   <img height="200" src="https://imgflip.com/gif/8gasvb"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&theme=default" alt="Layout with last medium posts"  />
 </div>
 
 ###
